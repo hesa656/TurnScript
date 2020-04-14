@@ -1,0 +1,10 @@
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\bin\Debug\TurnSignals.dll
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\bin\Debug\TurnSignals.pdb
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\bin\Debug\NativeUI.dll
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\obj\Debug\TurnSignals.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\obj\Debug\TurnSignals.csproj.CopyComplete
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\obj\Debug\TurnSignals.dll
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\obj\Debug\TurnSignals.pdb
+C:\Users\Robert\source\repos\TurnSignals\TurnSignals\bin\Debug\TurnSignals.dll.config
